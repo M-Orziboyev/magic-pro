@@ -6,7 +6,7 @@ const portfolios = [
         avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
     },
     {
-        name: "Muzaffar Orziboyev",
+        name: "Muslima Azamjonova",
         role: "Product Designer",
         cover: "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?w=600&h=400&fit=crop",
         avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=face",
