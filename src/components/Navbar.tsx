@@ -1,5 +1,6 @@
 import { Sparkles, Github, Heart } from "lucide-react";
 import { Button } from "@/components/ui/button.tsx";
+import ThemeSwitcher from "@/components/ThemeSwitcher";
 
 const Navbar = () => {
     return (
@@ -25,6 +26,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="flex items-center gap-2">
+                    <ThemeSwitcher />
                     <Button variant="ghost" size="sm" className="hidden sm:inline-flex gap-2">
                         <Heart className="w-4 h-4" />
                         Donate
