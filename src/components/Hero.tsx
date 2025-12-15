@@ -5,7 +5,6 @@ import heroMockup from "@/assets/hero-mockup.jpg";
 const Hero = () => {
     return (
         <section className="relative min-h-screen flex items-center pt-24 pb-16 overflow-hidden">
-            {/* Background gradient */}
             <div className="absolute inset-0 bg-gradient-to-b from-background via-background to-background" />
 
             <div className="container relative z-10">
